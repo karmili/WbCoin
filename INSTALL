@@ -1,0 +1,9 @@
+Building Wbcoin
+
+See doc/readme-qt.rst for instructions on building Wbcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Wbcoin.
+
+See doc/build-*.txt for instructions on building wbcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Wbcoin.
